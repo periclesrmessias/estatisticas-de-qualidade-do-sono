@@ -1,7 +1,10 @@
 ## Introduction & Goals
 
-This dashboard works with a fictitious dataset from Kaggle
-(https://www.kaggle.com/datasets/hanaksoy/health-and-sleep-statistics) and focus on
+![https://app.powerbi.com/view?r=eyJrIjoiOWIwYjExYjQtYjY0YS00NDEyLTk4YTgtMWYwNzBjMmNmZTY0IiwidCI6IjIwNDBmZGQ4LWI0NTUtNDUyOC05NjNkLTUxZTFmNDNlZjQ0NyJ9](https://github.com/periclesrmessias/sleep-quality-statistics/blob/main/Dashboard.png?raw=true)
+
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWIwYjExYjQtYjY0YS00NDEyLTk4YTgtMWYwNzBjMmNmZTY0IiwidCI6IjIwNDBmZGQ4LWI0NTUtNDUyOC05NjNkLTUxZTFmNDNlZjQ0NyJ9)
+
+This dashboard works with a fictitious [dataset](https://www.kaggle.com/datasets/hanaksoy/health-and-sleep-statistics) from Kaggle and focus on
 sleep health and lifestyle related factors, such as:
 - Sleep Quality: which ranges from 4-9, with 9 being the highest quality.
 - Daily Routine: including bedtime, wake-up time, dietary habits.
