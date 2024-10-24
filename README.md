@@ -1,8 +1,8 @@
-## Introduction & Goals
-
 ![https://app.powerbi.com/view?r=eyJrIjoiOWIwYjExYjQtYjY0YS00NDEyLTk4YTgtMWYwNzBjMmNmZTY0IiwidCI6IjIwNDBmZGQ4LWI0NTUtNDUyOC05NjNkLTUxZTFmNDNlZjQ0NyJ9](https://github.com/periclesrmessias/sleep-quality-statistics/blob/main/images/Dashboard.png?raw=true)
 
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWIwYjExYjQtYjY0YS00NDEyLTk4YTgtMWYwNzBjMmNmZTY0IiwidCI6IjIwNDBmZGQ4LWI0NTUtNDUyOC05NjNkLTUxZTFmNDNlZjQ0NyJ9)
+
+## Introduction & Goals
 
 This dashboard works with a fictitious [dataset](https://www.kaggle.com/datasets/hanaksoy/health-and-sleep-statistics) from Kaggle and focus on
 sleep health and lifestyle related factors, such as:
