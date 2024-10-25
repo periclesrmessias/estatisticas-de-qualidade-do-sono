@@ -38,7 +38,8 @@ address sleep disorders and medication use.
 - **Targeted Marketing**: Brands offering sleep aids, from apps to pharmaceuticals,
 could benefit from focusing marketing on this demographic through social
 media or other channels.
-##Limitations
+
+## Limitations
 While this dataset was relatively clean and manageable, I would prefer to work with a
 larger, real-world dataset that covers a wider age range. Although I made minimal
 changes, creating a new table to calculate each person's sleep duration, there was no
