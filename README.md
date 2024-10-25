@@ -32,10 +32,10 @@ sleep quality, particularly when they maintain a healthy routine and stay active
 
 ## Actionable Insights
 Based on these findings, companies could explore several strategies:
-- Health Programs: Target inactive men in their 40s with health programs that
+- **Health Programs**: Target inactive men in their 40s with health programs that
 combine physical activities, personalized dietary plans, and medical checkups to
 address sleep disorders and medication use.
-- Targeted Marketing: Brands offering sleep aids, from apps to pharmaceuticals,
+- **Targeted Marketing**: Brands offering sleep aids, from apps to pharmaceuticals,
 could benefit from focusing marketing on this demographic through social
 media or other channels.
 ##Limitations
