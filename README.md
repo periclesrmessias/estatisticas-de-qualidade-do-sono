@@ -4,15 +4,16 @@
 
 ## Introduction & Goals
 
-This dashboard works with a fictitious [dataset](https://www.kaggle.com/datasets/hanaksoy/health-and-sleep-statistics) from Kaggle and focus on
-sleep health and lifestyle related factors, such as:
-- Sleep Quality: which ranges from 4-9, with 9 being the highest quality.
-- Daily Routine: including bedtime, wake-up time, dietary habits.
-- Physical Activity Level: from low to high, daily calories burned, daily steps
-taken.
-• Health Indicators: presence of sleep disorders and medication usage
-The goal of this analysis is to identify which lifestyle factors are most associated with
-good sleep quality and to uncover insights that could help improve it.
+This dashboard aims to provide insights into how various factors influence sleep quality. In today’s society, poor sleep is a widespread issue. By understanding which elements have the greatest impact on sleep, we can develop strategies to improve overall sleep quality.
+
+The data used in this analysis was collected from the Health and Sleep Statistics [dataset](https://www.kaggle.com/datasets/hanaksoy/health-and-sleep-statistics)  on Kaggle, focusing on sleep health and lifestyle factors, including:
+
+- **Sleep Quality**: Rated on a scale of 4 to 9, with 9 being the highest quality.
+- **Daily Routine**: Bedtime, wake-up time, and dietary habits.
+- **Physical Activity Level**: Ranging from low to high, including daily calories burned and steps taken.
+- **Health Indicators**: Presence of sleep disorders and medication usage.
+The goal of this analysis is to identify which lifestyle factors are most strongly associated with good sleep quality and to uncover insights that can help improve it.
+
 
 ## Findings
 A key finding from the analysis is that inactive men in their 40s are more likely to
